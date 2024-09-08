@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+psycopg2
+pandas
+scikit-learn
+joblib
+azure-storage-blob
+azure-identity
+tensorflow  # If you're using TensorFlow
