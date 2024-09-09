@@ -32,7 +32,7 @@ stages:
           - task: Kubernetes@1
             inputs:
               connectionType: 'Azure Resource Manager'
-              azureSubscription: 'your-azure-subscription'
+              azureSubscription: '338a66c5-9a07-4c05-91d2-d39466e2214e'
               azureResourceGroup: 'your-resource-group'
               kubernetesCluster: 'your-kubernetes-cluster'
               namespace: 'default'
